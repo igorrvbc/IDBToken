@@ -1,3 +1,51 @@
+
+IDBToken
+
+Repositório para desenvolvimento de token na rede Goerli TestNet ETH .
+
+Projeto realizado durante o bootcamp 'Formação Web3 Fundamentals'.
+
+Descrição do Desafio
+
+Neste Desafio você irá criar, a partir das instruções do Instrutor Ricardo Zago, um Token do zero. Para isso, é importante que você siga o passo a passo de configuração da Wallet Metamask e do RPC info. Posteriormente, a partir do código base e das instruções dos vídeos "Configurando Metamask" e "Criando o seu Token", você irá fazer as alterações necessárias utilizando a IDE REMIX e então fazer o deploy do seu Token.
+
+Objetivo:
+
+    Criar um novo repositório (sempre público) através do link https://github.com/new (acessível pelo site através do botão "+", depois "Novo repositório").
+
+    Neste repositório, insira todos os arquivos relevantes para seu projeto. No caso, sugerimos que você adicione um arquivo com o código do seu Token. Além disso, seria extremamente importante a elaboração de um README contendo links úteis e imagens que evidenciem o sucesso da sua criação.
+
+Links úteis:
+
+https://metamask.io/
+https://rpc.info/
+https://remix.ethereum.org/
+
+Resolução:
+
+    Criação de Repositório no GitHub para alocar arquivos do projeto;
+
+    Conectei a rede Sepolia Testnet;
+
+    Resgatei faucets através do site "https://faucetlink.to/sepolia" para criação criação de token na rede Sepolia TestNet;
+
+    Utilizei a IDE do site "https://remix.ethereum.org/" para editar os arquivos e desenvolver o TOKEN pensando em jogos IDB Coin;
+
+    Criação do arquivo "token.sol" e edição das informações sobre 'endereço público' da carteira metamask;
+
+    Em "Solidity compiler" clico em 'Compile token.sol' e aguardo a confirmação; compilerSolidity
+
+    Na aba "Deploy & run transactions" seleciono o meu contrato criado que se chama 'IDBTOKEN - token.sol' na opção 'CONTRACT' e clico em 'Deploy' deploy run
+
+OBS: O sucesso da operação pode ser observado no link "https://sepolia.etherscan.io/" introduzindo na barra do pesquisa a chave pública da carteira metamask do criador do token.
+
+RESULTADO: IDB_token
+
+TOKEN CRIADO !!!
+
+
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:

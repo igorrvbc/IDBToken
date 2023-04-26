@@ -1,5 +1,5 @@
 # IDBToken
-Repositório para desenvolvimento de token na rede Goerli TestNet ETH .
+Repositório para desenvolvimento de token na rede Sepolia TestNet ETH .
 
 Projeto realizado durante o bootcamp 'Formação Web3 Fundamentals'.
 
